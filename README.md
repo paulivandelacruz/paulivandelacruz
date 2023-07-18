@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Full Stack Software Engineer
+Front - End Software Engineer
 
 
 ## 🌐 Socials:
