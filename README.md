@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Paul Ivan Dela Cruz</h1>
-<h3 align="center">A 21-years-old Computer Engineering Graduate, and a Fullstack Software Engineer MERN Stack. I am able to work well both in a team environment as well as using own initiative and I want to secure the position of the computer engineer where I can utilize my technical and management skills for achieving the target and delivering the best performance in the esteemed organization.</h3>
+<h1 align="center">Hi, I'm Paul Ivan Dela Cruz</h1>
+<h4 align="center">A 21-years-old Computer Engineering Graduate, and a Fullstack Software Engineer MERN Stack. I am able to work well both in a team environment as well as using own initiative and I want to secure the position of the computer engineer where I can utilize my technical and management skills for achieving the target and delivering the best performance in the esteemed organization.</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
