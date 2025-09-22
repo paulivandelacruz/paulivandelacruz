@@ -64,9 +64,15 @@ I’m currently open to **collaborations, freelance opportunities, or full-time 
 ---
 
 ## 🚀 Featured Projects
-📌 [**GabAI**](https://github.com/paulivandelacruz) — AI-powered teaching assistant for educators  
-📌 [**Sales Order Portal**](https://github.com/paulivandelacruz) — Centralized system for franchisees & distributors  
-📌 [**SmartBooks API Integrations**](https://github.com/paulivandelacruz) — Custom backend for A/P & SO workflows  
+
+📌 [**GabAI**](https://github.com/paulivandelacruz)  
+AI-powered teaching assistant built **by teachers, for teachers**, helping educators streamline lesson prep, enhance student engagement, and save time with smart automation.  
+
+📌 [**SmartBooks Cloud Accounting with OCR**](https://github.com/paulivandelacruz)  
+A modern **cloud-based accounting platform** with **optical character recognition (OCR)** for invoices and receipts, integrating with APIs to automate bookkeeping, reduce errors, and improve financial workflows.  
+
+📌 [**HRIS (Human Resource Information System)**](https://github.com/paulivandelacruz)  
+An enterprise-ready **HR management platform** covering recruitment, onboarding, payroll, and employee tracking — built to help organizations simplify and digitize their HR processes.  
 
 *(Check out my pinned repositories below ⬇️ for more!)*  
 
