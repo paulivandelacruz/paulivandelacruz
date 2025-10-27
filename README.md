@@ -68,6 +68,12 @@ I’m currently open to **collaborations, freelance opportunities, or full-time 
 📌 [**GabAI**](https://gabai.tagpros.us/)  
 AI-powered teaching assistant built **by teachers, for teachers**, helping educators streamline lesson prep, enhance student engagement, and save time with smart automation.  
 
+<img width="1920" height="4213" alt="image" src="https://github.com/user-attachments/assets/dc6763bb-962b-4e0d-98b0-0f85140ef7df" />
+
+<img width="1920" height="1912" alt="image" src="https://github.com/user-attachments/assets/68927abe-2d0f-4bea-8178-d64240b41d5d" />
+
+
+
 📌 [**SmartBooks Cloud Accounting with OCR**](https://smartbooks.com.ph/)  
 A modern **cloud-based accounting platform** with **optical character recognition (OCR)** for invoices and receipts, integrating with APIs to automate bookkeeping, reduce errors, and improve financial workflows.  
 
