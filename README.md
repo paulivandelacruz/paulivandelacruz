@@ -26,7 +26,7 @@
 
 ```typescript
 const paul = {
-  location: "Quezon City, Metro Manila 🇵🇭",
+  location: "Caloocan City, Metro Manila 🇵🇭",
   focus: "Building scalable web applications & intuitive user experiences",
   expertise: ["Frontend", "Backend", "Database Design", "DevOps"],
   currentStatus: "Open to collaborations, freelance & full-time opportunities",
@@ -108,7 +108,7 @@ const paul = {
 
 Built **by teachers, for teachers** — revolutionizing education with smart automation.
 
-**Tech:** Next.js, TypeScript, AI/ML
+**Tech:** Next.js, MongoDB, AI/ML
 
 **Features:**
 - 📝 Automated lesson planning
@@ -123,7 +123,7 @@ Built **by teachers, for teachers** — revolutionizing education with smart aut
 
 Modern accounting platform with intelligent document processing.
 
-**Tech:** React, Node.js, OCR API
+**Tech:** React, Node.js, Openai API
 
 **Features:**
 - 📄 Invoice/Receipt OCR
@@ -140,7 +140,7 @@ Modern accounting platform with intelligent document processing.
 
 Complete HR platform for modern organizations.
 
-**Tech:** Rails, PostgreSQL, React
+**Tech:** Express.JS, MySQL, React
 
 **Features:**
 - 🔄 Recruitment & Onboarding
